@@ -1,1 +1,1 @@
-# Proyecto VCS - Super Sistema de Tareas Avanzado
+# Proyecto VCS - Version Editada por Trini
